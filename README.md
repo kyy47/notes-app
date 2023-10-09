@@ -1,8 +1,4 @@
-# React + Vite
+# notes-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+this simple project I created for completed learned module "Belajar Membuat Aplikasi Web dengan React" in dicoding, this project created with React + Vite.
+this project can be add the notes, archive the notes, search the notes and have suggestion max input the title notes when add the notes
